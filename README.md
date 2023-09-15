@@ -80,3 +80,8 @@ Suppose you want to search for the keyword "important" in text files located in 
 - To run PowerShell scripts, ensure that your execution policy allows script execution. You can set it to "RemoteSigned" using the following command: **_'Set-ExecutionPolicy RemoteSigned'_**.
 
 - Always be cautious when searching for text in files, especially if you are working with sensitive data or large directories, as it can take some time to complete.
+
+#
+<br>
+
+⬅️ **[Home](https://github.com/infinity-set)**
